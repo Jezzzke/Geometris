@@ -70,4 +70,4 @@ Tento repozitář slouží jako místo pro všechny podklady karetní hry Geomet
 
 
 ## Odkazy
-- <a href="https://jezzzke.github.io/Geometris">Hlavní stránka</a>
+- [Hlavní stránky](https://jezzzke.github.io/Geometris)
