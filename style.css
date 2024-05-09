@@ -8,15 +8,16 @@ html, body {
 
 /* navigation */
 nav {
-    height: 80px;
-    background-color: #333;
+    height: 40px;
+    background-color: #0766b4;
 }
 
 nav ul li {
     width: 140px;
+    margin-top: 15px;
     list-style-type: none;
     text-align: center;
-    line-height: 75px;
+    line-height: 10px;
     font-size: 28px;
     text-decoration: none;
     vertical-align: middle;
@@ -31,7 +32,6 @@ nav ul li a {
 nav ul li a:hover{
     font-size: 32px;
     text-shadow: 0 0 10px white;
-    border-bottom: 1px solid whitesmoke;
 }
 nav ul {
     width: 1040px;
