@@ -2300,43 +2300,6 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
-/* Header */
-
-	#header {
-		text-align: center;
-		font-size: 2em;
-		font-family: 'Open Sans Condensed', sans-serif;
-		font-weight: 700;
-		text-transform: uppercase;
-		padding: 2em 0;
-		background: #fff;
-		margin: 0 auto;
-	}
-
-		#header .logo {
-			position: relative;
-			text-align: center;
-			border-top: solid 5px #e7eae8;
-			top: 0.65em;
-		}
-
-			#header .logo div {
-				background: #fff;
-				position: relative;
-				display: inline-block;
-				padding: 0 1.5em 0 1.5em;
-				top: -0.65em;
-			}
-
-			#header .logo h1 {
-				display: inline;
-			}
-
-			#header .logo p {
-				display: inline;
-				color: #C1CAC5;
-			}
-
 /* Nav */
 
 	body {
