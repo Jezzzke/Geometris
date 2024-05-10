@@ -22,6 +22,7 @@ Tento repozitář slouží jako místo pro všechny podklady karetní hry Geomet
 | zpřesnění |   3   |  1   |
 |   délka   |   2   |  2   |
 |   úhly    |   2   |  1   |
+|  celkem   |   7   |  4   |
 
 
 ---
@@ -31,14 +32,16 @@ Tento repozitář slouží jako místo pro všechny podklady karetní hry Geomet
 | zpřesnění  |   3   |  1   |
 |   délka    |   2   |  2   |
 | úhlopříčky |   2   |  1   |
+|   celkem   |   7   |  4   |
 
 ---
 ### Kafíčko
-|       | počet | body |
-|:-----:|:-----:|:----:|
-| ouško |   2   |  2   |
-| písk  |   1   |  1   |
-| kouř  |   1   |  2   |
+|        | počet | body |
+|:------:|:-----:|:----:|
+| ouško  |   2   |  2   |
+|  písk  |   1   |  1   |
+|  kouř  |   1   |  2   |
+| celkem |   4   |  5   |
 
 ---
 ### Trojúhelník pravoúhlý
@@ -47,6 +50,7 @@ Tento repozitář slouží jako místo pro všechny podklady karetní hry Geomet
 | zpřesnění  |   2   |  1   |
 | večerníček |   2   |  2   |
 | úhlopříčky |   2   |  1   |
+|   celkem   |   6   |  4   |
 
 ---
 ### Trojúhelník rovnostranný
@@ -55,6 +59,7 @@ Tento repozitář slouží jako místo pro všechny podklady karetní hry Geomet
 | zpřesnění  |   2   |  1   |
 | úholpříčky |   2   |  1   |
 |   délka    |   2   |  2   |
+|   celkem   |   6   |  4   |
 
 ---
 ### Kruh
@@ -62,12 +67,16 @@ Tento repozitář slouží jako místo pro všechny podklady karetní hry Geomet
 |:---------:|:-----:|:----:|
 | zpřesnění |   2   |  1   |
 |   délka   |   2   |  2   |
+|  celkem   |   4   |  3   |
 ---
 ### Hexagon
 |           | počet | body |
 |:---------:|:-----:|:----:|
 | zpřesnění |   3   |  3   |
+|  celkem   |   3   |  3   |
 
+
+### dohromady celkově modifikačních katriček: 37
 
 ## Odkazy
 - [Hlavní stránky](https://jezzzke.github.io/Geometris)
